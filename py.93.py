@@ -1,5 +1,5 @@
 # program to identify the even/odd state of given number
-
+# comment
 number = int(input("enter a number: "))
 
 if number % 2 ==0:
